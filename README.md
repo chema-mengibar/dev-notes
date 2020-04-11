@@ -1,10 +1,31 @@
+# Dev Notes
 
-- 4 Layers of Single Page Applications
-  https://hackernoon.com/architecting-single-page-applications-b842ea633c2e
-- Presentational and Container Components
-  https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
-- Layered-Architecture
-  https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html
-- Microservices-Architecture
-  https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch04.html
+## Content
+- Patterns
+- Architecture
+
+---
+
+## Patterns
+
+### Docs:
+- Design patterns
+
+### Examples
+**See** in `./patterns/examples/`  
+**Call** the usage script:
+```
+node ./patterns/examples/creational-builder.usage
+```
+
+- [x] creational/builder
+
+---
+
+## Architecture
+### Docs:
+ - 4 Layers of Single Page Applications  
+- Presentational and Container Components  
+- Layered-Architecture  
+- Microservices-Architecture  
 - Pattern-Analysis-Summary
